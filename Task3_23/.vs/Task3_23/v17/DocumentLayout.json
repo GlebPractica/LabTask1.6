@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8136178-C6FD-4E74-BD7B-6A7B01B76365}|Task3_23.csproj|d:\\pairs\\kpjp_practica\\work_1.6\\task3_23\\stringtransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8136178-C6FD-4E74-BD7B-6A7B01B76365}|Task3_23.csproj|solutionrelative:stringtransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8136178-C6FD-4E74-BD7B-6A7B01B76365}|Task3_23.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8136178-C6FD-4E74-BD7B-6A7B01B76365}|Task3_23.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8136178-C6FD-4E74-BD7B-6A7B01B76365}|Task3_23.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8136178-C6FD-4E74-BD7B-6A7B01B76365}|Task3_23.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8136178-C6FD-4E74-BD7B-6A7B01B76365}|Task3_23.csproj|D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8136178-C6FD-4E74-BD7B-6A7B01B76365}|Task3_23.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringTransformer.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\StringTransformer.cs",
+              "RelativeDocumentMoniker": "StringTransformer.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\StringTransformer.cs",
+              "RelativeToolTip": "StringTransformer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:30:54.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:30:22.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:30:16.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.6\\Task3_23\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:29:58.744Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

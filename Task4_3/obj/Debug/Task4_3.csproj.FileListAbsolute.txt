@@ -1,0 +1,10 @@
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\bin\Debug\Task4_3.exe.config
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\bin\Debug\Task4_3.exe
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\bin\Debug\Task4_3.pdb
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\obj\Debug\Task4_3.csproj.AssemblyReference.cache
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\obj\Debug\Task4_3.Form1.resources
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\obj\Debug\Task4_3.Properties.Resources.resources
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\obj\Debug\Task4_3.csproj.GenerateResource.cache
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\obj\Debug\Task4_3.csproj.CoreCompileInputs.cache
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\obj\Debug\Task4_3.exe
+D:\Pairs\KPJP_Practica\Work_1.6\Task4_3\obj\Debug\Task4_3.pdb
